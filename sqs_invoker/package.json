@@ -1,0 +1,9 @@
+{
+  "name": "sqs_invoker",
+  "version": "0.1.0",
+  "description": "",
+  "main": "invoker.js",
+  "dependencies": {
+    "async": "2.0.1"
+  }
+}
